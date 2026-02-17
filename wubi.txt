@@ -1,0 +1,206 @@
+# Rime table
+#@/db_name	wubi
+#@/db_type	tabledb
+#@/rime_version	1.13.1
+#@/tick	200
+！	;a	2
+）	;c	4
+芙芙池子	aaib	2
+艾莉丝	aaxx	4
+芙芙	afaf	2
+䕀	affw	2
+芙	afw	8
+莱	ago	2
+芙宁娜	apvv	6
+艾尔海森	aqis	4
+艾	aqu	2
+艾	ar	2
+茜	as	10
+莉	atj	18
+薇	atm	2
+茜特拉莉	atra	2
+花	awx	2
+子	b	2
+骑	cgdk	4
+骑士	cgfg	2
+巴	cnh	2
+迈巴赫	dcfo	2
+还	dh	4
+迈	dnp	2
+龙王	dxgg	8
+月	eee	2
+士	fghg	4
+赫	fof	2
+过	fp	2
+玛薇卡	gahh	2
+玛	gcg	2
+瑞	gmd	4
+玘	gnn	2
+班尼特	gntr	12
+班	gyt	4
+上	h	2
+卡	hh	4
+池	ib	2
+池子	ibbb	6
+海	itx	2
+没	iw	4
+啊	kb	2
+吗	kcg	2
+吃	kt	2
+团	lf	2
+车	lg	2
+田	llll	2
+田宝	llpg	10
+尼	nx	4
+火	o	2
+火花骑士	oacf	2
+火	oo	2
+米	oy	2
+㝋	pbj	2
+字根	pbsv	4
+宝	pgy	2
+宁	ps	4
+我	q	4
+希	qdmh	2
+猎月人	qeww	2
+尔	qi	2
+猎	qta	2
+希诺宁	qyps	2
+提	rj	2
+提米	rjoy	2
+拉	ru	10
+要	s	2
+丁	sgh	2
+西	sghg	20
+西风	sgwr	2
+可	sk	8
+可莉	skat	2
+森	sss	2
+松	swc	2
+西风骑士	swcf	2
+我还没上	tdih	4
+我还没	tdiw	2
+特	trf	14
+关	ud	2
+关瑞	udgm	4
+那	vfb	2
+娅	vgo	10
+妲	vjg	18
+娜	vvf	12
+娜	vvfb	2
+那维莱特	vxat	4
+始终如一	vxvg	4
+娜维娅	vxvg	2
+人	w	2
+他	wb	2
+你吃过吗	wkfk	2
+你	wq	2
+你好	wqvb	2
+风	wr	2
+从	ww	4
+侳	wwwf	2
+纳	xmw	14
+纳西妲	xsvj	4
+维	xwy	12
+维	xwyg	2
+丝	xxg	2
+诺	yad	2
+芙芙芙芙	encaaaa	0
+芙芙芙	encaaaf	0
+芙芙芙池	encaaai	0
+芙芙池	encaaib	0
+芙芙池子	encaaib	0
+艾莉丝	encaaxx	0
+花骑士	encacfg	0
+芙芙	encafaf	0
+芙宁	encafps	0
+䕀要	encafsv	1
+莱特	encagtr	0
+芙宁娜	encapvv	0
+艾尔海森	encaqis	0
+艾尔海	encaqit	0
+艾尔	encaqqi	0
+艾莉	encarat	0
+莉可莉	encasat	0
+茜特	encastr	0
+薇卡	encathh	0
+茜特拉莉	encatra	0
+茜特拉	encatru	0
+莉丝	encatxx	0
+花骑	encawcg	0
+骑士	enccgfg	0
+巴赫	enccnfo	0
+迈巴赫	encdcfo	0
+还没	encdhiw	0
+还没上	encdihg	0
+还没上车	encdihl	0
+迈巴	encdncn	0
+月人	enceeww	0
+过吗	encfpkc	0
+玛薇卡	encgahh	0
+玛薇	encgcat	0
+瑞瑞关瑞	encggug	0
+瑞瑞	encgmgm	0
+班尼特	encgntr	0
+瑞关瑞	encgugm	0
+班尼	encgynx	0
+上车	enchglg	0
+上车啊	enchlkb	0
+池子	encibbb	0
+没上车	encihlg	0
+没上车啊	encihlk	0
+海森	encitss	0
+没上	enciwhg	0
+吃过吗	enckfkc	0
+吃过	encktfp	0
+车啊	enclgkb	0
+田宝	encllpg	0
+田宝田宝	enclplp	0
+尼可火	encnsoo	0
+尼可	encnxsk	1
+尼特	encnxtr	0
+火花骑士	encoacf	0
+火花骑	encoacg	0
+火花	encooaw	0
+宝田宝	encplpg	0
+宁娜	encpsvv	0
+希诺	encqdya	0
+猎月人	encqeww	0
+尔海	encqiit	0
+尔海森	encqiss	0
+猎月	encqtee	0
+希诺宁	encqyps	0
+提米	encrjoy	0
+拉莉	encruat	0
+可莉可莉	encsasa	0
+西妲	encsgvj	0
+可莉	encskat	0
+西风骑士	encswcf	0
+我还没上	enctdih	0
+我还没	enctdiw	0
+特拉莉	enctrat	0
+我还	enctrdh	0
+特拉	enctrru	0
+关瑞	encudgm	0
+关瑞瑞	encuggm	0
+关瑞关瑞	encugug	0
+妲芙宁娜	encvapv	0
+娜芙宁娜	encvapv	0
+那维	encvfxw	0
+娜维	encvvxw	0
+那维莱	encvxag	0
+那维莱特	encvxat	0
+娜维娅	encvxvg	0
+你吃过吗	encwkfk	0
+你吃过	encwkfp	0
+人猎月人	encwqew	0
+你吃	encwqkt	0
+风骑	encwrcg	0
+从从侳	encwwww	1
+维莱特	encxatr	0
+纳丁	encxmsg	0
+纳西	encxmsg	0
+纳西妲	encxsvj	0
+维莱	encxwag	0
+维娅	encxwvg	0
+诺宁	encyaps	0
