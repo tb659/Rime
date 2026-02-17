@@ -2,7 +2,7 @@
 #@/db_name	wubi
 #@/db_type	tabledb
 #@/rime_version	1.13.1
-#@/tick	200
+#@/tick	206
 ！	;a	2
 ）	;c	4
 芙芙池子	aaib	2
@@ -29,19 +29,24 @@
 迈	dnp	2
 龙王	dxgg	8
 月	eee	2
+需要	fdsv	2
 士	fghg	4
 赫	fof	2
 过	fp	2
 玛薇卡	gahh	2
+开发	gant	2
 玛	gcg	2
+五	gg	2
 瑞	gmd	4
 玘	gnn	2
 班尼特	gntr	12
+五笔输入	gtlt	2
 班	gyt	4
 上	h	2
 卡	hh	4
 池	ib	2
 池子	ibbb	6
+法	if	2
 海	itx	2
 没	iw	4
 啊	kb	2
@@ -50,7 +55,9 @@
 团	lf	2
 车	lg	2
 田	llll	2
-田宝	llpg	10
+田宝	llpg	12
+输入法	ltif	2
+输	lwg	2
 尼	nx	4
 火	o	2
 火花骑士	oacf	2
@@ -66,6 +73,7 @@
 尔	qi	2
 猎	qta	2
 希诺宁	qyps	2
+后续	rgxf	2
 提	rj	2
 提米	rjoy	2
 拉	ru	10
@@ -80,7 +88,10 @@
 西风骑士	swcf	2
 我还没上	tdih	4
 我还没	tdiw	2
+怎么	thtc	2
 特	trf	14
+笔	tt	2
+入	ty	2
 关	ud	2
 关瑞	udgm	4
 那	vfb	2
@@ -137,11 +148,15 @@
 迈巴	encdncn	0
 月人	enceeww	0
 过吗	encfpkc	0
+需要怎么	encfstt	0
 玛薇卡	encgahh	0
 玛薇	encgcat	0
+五笔	encggtt	0
 瑞瑞关瑞	encggug	0
 瑞瑞	encgmgm	0
 班尼特	encgntr	0
+五笔输入	encgtlt	0
+五笔输	encgtlw	0
 瑞关瑞	encgugm	0
 班尼	encgynx	0
 上车	enchglg	0
@@ -156,6 +171,8 @@
 车啊	enclgkb	0
 田宝	encllpg	0
 田宝田宝	enclplp	0
+输入法	encltif	0
+输入	enclwty	0
 尼可火	encnsoo	0
 尼可	encnxsk	1
 尼特	encnxtr	0
@@ -172,15 +189,21 @@
 希诺宁	encqyps	0
 提米	encrjoy	0
 拉莉	encruat	0
+后续需要	encrxfs	0
 可莉可莉	encsasa	0
 西妲	encsgvj	0
 可莉	encskat	0
 西风骑士	encswcf	0
 我还没上	enctdih	0
 我还没	enctdiw	0
+笔输入法	enctlti	0
+笔输入	enctlty	0
 特拉莉	enctrat	0
 我还	enctrdh	0
 特拉	enctrru	0
+怎么开发	encttgn	0
+笔输	encttlw	0
+入法	enctyif	0
 关瑞	encudgm	0
 关瑞瑞	encuggm	0
 关瑞关瑞	encugug	0

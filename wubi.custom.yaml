@@ -23,6 +23,7 @@ patch:
   translator/enable_sentence: true
   translator/enable_user_dict: true
   translator/encode_commit_history: true
+  translator/max_phrase_length: 99
   translator/preedit_format/+: 
     - 'xform/^([a-z]*)$/$1\t〈\U$1\E〉/'
     - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXY|工子又大月土王目水日口田山已火之金白木禾立女人幺言|"
